@@ -20,6 +20,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 [Click to view working demo webiste](https://nextjs-website-templete.vercel.app/)
 
+## Features
+
+- Responsive Website
+- Header Rich Menu
+- Body Section
+- Footer Section
+- Dark and Light Themes control
+- Better folder structure and files management with App Router
+
 ## Major Dependencies
 
 - Reactjs version 19+
