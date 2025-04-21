@@ -1,0 +1,36 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@import",
+      "description": "Directives are custom Tailwind-specific at-rules you can use in your CSS that offer special functionality for Tailwind CSS projects.",
+      "references": [
+        {
+          "name": "Tailwind Documentation",
+          "url": "https://tailwindcss.com/docs/functions-and-directives#apply-directive"
+        }
+      ]
+    },
+    {
+      "name": "@theme"
+    },
+    {
+      "name": "@source"
+    },
+    {
+      "name": "@utility"
+    },
+    {
+      "name": "@variant"
+    },
+    {
+      "name": "@custom-variant"
+    },
+    {
+      "name": "@apply"
+    },
+    {
+      "name": "@reference"
+    }
+  ]
+}
